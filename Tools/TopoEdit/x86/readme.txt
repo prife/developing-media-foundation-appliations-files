@@ -1,0 +1,1 @@
+Please register the TEDUTIL.dll binary by running "regsvr32 TEDUTIL.dll" from an elevated command prompt.
